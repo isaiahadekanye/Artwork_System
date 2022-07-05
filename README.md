@@ -1,4 +1,4 @@
-# Artwork_System
+# Artwork System
 
 Artwork System showing how PHP, SQL, HTML, CSS AND JAVSCRIPT.The System is easily updatable with the SQL Database. It also shows how to connect various SQL Tables and users can modufy various data in the database and see how the tables interact. 
 
